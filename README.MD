@@ -9,8 +9,8 @@
 </a>
 
 <p align="left" >
-    ▨ Master of Science - USP (Sao Paulo, Brazil)<br>
-    ▨ Mechanical Engineer - UAO (Cali, Colombia)<br>
+    ▨ Master of Science - USP<br>
+    ▨ Mechanical Engineer - UAO<br>
     ▨ Web Dev | Programmer | Traveler<br>
 </p>
 
