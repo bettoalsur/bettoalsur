@@ -14,5 +14,5 @@
     ▨ Web Dev | Programmer | Traveler<br>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bettoalsur&theme=default&show_icons=true&count_private=true" alt="">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettoalsur&layout=compact" alt="">
+<img height="170px" align="left" src="https://github-readme-stats.vercel.app/api?username=bettoalsur&theme=default&show_icons=true&count_private=true" alt="">
+<img height="170px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettoalsur&layout=compact" alt="">
